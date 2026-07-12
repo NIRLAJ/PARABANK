@@ -5,8 +5,8 @@ const { TransferFundsPage } = require('../pages/TransferFundsPage');
 const { AccountActivityPage } = require('../pages/AccountActivityPage');
 
 const TEST_DATA = {
-  username: 'john',
-  password: 'demo',
+  username: 'nirlaj@gmail.com',
+  password: '123456',
   transferAmount: '50.00',
 };
 
